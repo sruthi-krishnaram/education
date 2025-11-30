@@ -2,3 +2,6 @@ Aws Devops
 Git Hub
 Terraform 
 Ansible
+Jenkins
+Docker
+Linux
